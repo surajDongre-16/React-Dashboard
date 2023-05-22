@@ -92,7 +92,7 @@ const Sidebar = () => {
             <Box mb="25px">
               <Box
                 display={"flex"}
-                justifyContent={"ceneter"}
+                justifyContent={"center"}
                 alignItems={"center"}
               >
                 <img
